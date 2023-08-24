@@ -54,8 +54,9 @@ function Header(){
             <div className='headerbar'>
             <div className='header-text'>
             <div className='col-md-6 headertext'>
-              <h1>Elevate your <sapm className="hcolor">Digital </sapm>
-              <sapm className="hcolor">Products</sapm> with us <img src="/image/Line 1.png" alt='line' className='lineimg'></img><FontAwesomeIcon icon={faQuoteLeft} className='quoticon'/></h1>
+            
+              <h1>Elevate your <span className="hcolor">Digital </span>
+              <span className="hcolor">Products</span> with us <img src="/image/Line 1.png" alt='line' className='lineimg'></img><FontAwesomeIcon icon={faQuoteLeft} className='quoticon'/></h1>
               <p>App and Web Development for your business. 
 We believe in the power of designs.
 </p>

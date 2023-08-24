@@ -14,9 +14,9 @@ const Portfoliop = () => {
     
 
      <div className='cardportfolio'>
-     <div class="row">
-     <div class="col-md-4">
-    <div class="card">
+     <div className="row">
+     <div className="col-md-4">
+    <div className="card">
       <div className='cardportfoliochild'>
         <div className='cardcolor'>
         <img src='/image/119x100 1.png' alt='119' className="cardimgportfolio"></img>
@@ -24,8 +24,8 @@ const Portfoliop = () => {
       </div>
       </div>
      </div>
-  <div class="col-md-4">
-    <div class="card">
+  <div className="col-md-4">
+    <div className="card">
       <div className='cardportfoliochild'>
       <div className='cardcolor'>
       <img src='/image/Keon-Logo80-190 1.png' className="cardimgportfolio" alt='keon'></img>
@@ -45,9 +45,9 @@ const Portfoliop = () => {
      </div>
 
      <div className='cardportfolio'>
-     <div class="row">
-     <div class="col-md-4">
-    <div class="card">
+     <div className="row">
+     <div className="col-md-4">
+    <div className="card">
       <div className='cardportfoliochild'>
         <div className='cardcolor'>
         <img src='/image/logo-wellautomation-1 1.png' className="cardimgportfolio" alt='logo'></img>
@@ -57,8 +57,8 @@ const Portfoliop = () => {
      </div>
 
      
-  <div class="col-md-4">
-    <div class="card">
+  <div className="col-md-4">
+    <div className="card">
       <div className='cardportfoliochild'>
       <div className='cardcolor'>
       <img src='/image/246x0w 1.png' className="cardimgportfolio" alt='246'></img>

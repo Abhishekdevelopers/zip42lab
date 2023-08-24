@@ -13,8 +13,8 @@ const Footer = () => {
             <div >
                 <ul className='footer-mainlist'>
                     <li className='footer-mainlist-heading'>Contact us</li>
-                    <li className='footer-mainlist-main'><i class="fa-solid fa-phone-volume"></i>  +919015150575</li>
-                    <li className='footer-mainlist-main'><i class="fa-solid fa-envelope"></i> info@gorevive.in</li>
+                    <li className='footer-mainlist-main'><i className="fa-solid fa-phone-volume"></i>  +919015150575</li>
+                    <li className='footer-mainlist-main'><i className="fa-solid fa-envelope"></i> info@gorevive.in</li>
                 </ul>
             </div>
             <div>
@@ -46,10 +46,10 @@ const Footer = () => {
         </div>
         <div className='subfooter'>
           <div className='subfooter-icon'>
-          <i class="fa-brands fa-twitter fa-2xl"></i>
-          <i class="fa-brands fa-facebook fa-2xl"></i>
-          <i class="fa-solid fa-wifi fa-rotate-45 fa-2xl"></i>
-          <i class="fa-brands fa-square-instagram fa-2xl"></i>
+          <i className="fa-brands fa-twitter fa-2xl"></i>
+          <i className="fa-brands fa-facebook fa-2xl"></i>
+          <i className="fa-solid fa-wifi fa-rotate-45 fa-2xl"></i>
+          <i className="fa-brands fa-square-instagram fa-2xl"></i>
           </div>
           <div className='subfootertext'>
             <a className='afooter'  href='#'>COPYRIGHT@ZIP42LAB - TERMS & CONDITIONS PRIVACY POLICY</a>
